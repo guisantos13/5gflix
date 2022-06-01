@@ -28,7 +28,12 @@ alguns dos tratamentos foram:
 - Transformação para o formato Parket, o que aumentou notavelmente o poder de processamento dos dados.
 
 <p align=center>
-  <img src="https://github.com/guisantos13/5gflix/blob/main/workflow/5gflix_diagrama_logico.png" height=600/>
+  <img src="https://github.com/guisantos13/5gflix/blob/d91b5dbfe0a0f9d1679e29b36951b379f31797bb/Dashboard-5gflix-1.png" height=600/>
+  </p>
+<p align=center>
+  
+  <p align=center>
+  <img src="https://github.com/guisantos13/5gflix/blob/d91b5dbfe0a0f9d1679e29b36951b379f31797bb/Dashboard-5gflix-2.png" height=600/>
   </p>
 <p align=center>
   
