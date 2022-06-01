@@ -1,4 +1,4 @@
-# 5gflix - Engenharia de Dados
+# 5gflix - Big Data
 
 O principal objetivo desse trabalho é fornecer uma solução para a equipe de B.I que irá realizar um estudo do mercado das suas principais concorrentes:
 Amazon e Netflix.
