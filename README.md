@@ -53,4 +53,6 @@ disponíveis na Netflix?
   
   Por fim os [custos](https://github.com/guisantos13/5gflix/blob/main/Relat%C3%B3rios%20%E2%80%93%20Faturamento%20%E2%80%93%205gflix%20%E2%80%93%20Google%20Cloud%20Platform.pdf) de infra para desenvolver toda a solução.
   
+  ## Data - Visualization
   
+  Dashboard [Data-Studio](https://datastudio.google.com/s/iqTN61tNV7c)
