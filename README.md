@@ -55,4 +55,9 @@ disponíveis na Netflix?
   
   ## Data - Visualization
   
-  Dashboard [Data-Studio](https://datastudio.google.com/s/iqTN61tNV7c)
+  Dashboard [Data-Studio](https://datastudio.google.com/s/iqTN61tNV7c) 
+  
+<p align=center>
+  <img src="https://github.com/guisantos13/5gflix/blob/main/Dashboard-5gflix.pdf" height=600/>
+  </p>
+<p align=center>
