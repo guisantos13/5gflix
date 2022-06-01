@@ -51,6 +51,6 @@ disponíveis na Netflix?
   
   As consultas realizadas foram disponibilizadas neste [repositório](https://github.com/guisantos13/5gflix/tree/main/sql-bigquery).
   
-  Por fim os [custos]() de infra para desenvolver toda a solução.
+  Por fim os [custos](https://github.com/guisantos13/5gflix/blob/main/Relat%C3%B3rios%20%E2%80%93%20Faturamento%20%E2%80%93%205gflix%20%E2%80%93%20Google%20Cloud%20Platform.pdf) de infra para desenvolver toda a solução.
   
   
