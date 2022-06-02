@@ -62,6 +62,6 @@ disponíveis na Netflix?
   <img align="center" alt="Data-studio" height="600" width="800" src="https://github.com/guisantos13/5gflix/blob/main/5gflix-dashboard/5gflix-1.png">
   </div>
   <div style="display: inline_block">
-  <img align="center" alt="Data-studio" height="600" width="800" src="https://github.com/guisantos13/5gflix/blob/main/5gflix-dashboard/5gflix-1.png">
+  <img align="center" alt="Data-studio" height="600" width="800" src="https://github.com/guisantos13/5gflix/blob/main/5gflix-dashboard/5gflix-2.png">
   </div>
 
